@@ -22,7 +22,7 @@ Este repositorio contiene la implementación de la **Evaluación Parcial N°1** 
 
 ## 3. Componentes de la Infraestructura
 
-La infraestructura desplegada en AWS bajo la nomenclatura `<sigla>-<proyecto>-<recurso>` incluye:
+La infraestructura desplegada en AWS bajo la nomenclatura AUY1105-GRUPO-Nro1 incluye:
 
 * **VPC:** `AUY1105-duoc-vpc` con bloque CIDR `10.1.0.0/16`.
 
