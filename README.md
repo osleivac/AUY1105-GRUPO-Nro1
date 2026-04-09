@@ -70,8 +70,8 @@ Se han implementado políticas mediante **Open Policy Agent** para validar:
 
 ---
 
-**Integrantes:** [Nombres de los integrantes]  
+**Integrantes:** Juan Pablo - Oscar Leiva 
 
-**Docente:** [Nombre del docente]  
+**Docente:** Camilo Jerez
 
 **Institución:** Duoc UC - 2026
